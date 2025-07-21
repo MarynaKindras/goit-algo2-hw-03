@@ -131,8 +131,8 @@ Total range_query time for Dict: X.XXXXXX seconds
 # TASK RESULTS
 
 ## TASK_1
-![Task_1_results](C:\Projects\goit-algo2-hw-03\assets\task_1_results_1.png)
-![Task_1_results](C:\Projects\goit-algo2-hw-03\assets\task_1_results_2.png)
+![Task_1_results](C:\Projects\goit-algo2-hw-03\assets\task_1_results_01.png)
+![Task_1_results](C:\Projects\goit-algo2-hw-03\assets\task_1_results_02.png)
 ![Task_1_graph](C:\Projects\goit-algo2-hw-03\assets\task_1_graph.png)
 
 ## Logistics Network Analysis
