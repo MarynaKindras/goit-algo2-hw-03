@@ -18,7 +18,7 @@ Develop a program to model a flow network for product logistics from warehouses 
 
 Construct a graph model representing the flow network as described below:
 
-![Graph model](../../../../../Projects/goit-algo2-hw-03/assets/graph.png)
+![Graph](assets/graph.png)
 
 ### Connections and Capacities in the Graph:
 
@@ -131,9 +131,9 @@ Total range_query time for Dict: X.XXXXXX seconds
 # TASK RESULTS
 
 ## TASK_1
-![Task_1_results](C:\Projects\goit-algo2-hw-03\assets\task_1_results_01.png)
-![Task_1_results](C:\Projects\goit-algo2-hw-03\assets\task_1_results_02.png)
-![Task_1_graph](C:\Projects\goit-algo2-hw-03\assets\task_1_graph.png)
+![Task_1_results](assets/task_1_results_01.png)
+![Task_1_results](assets/task_1_results_02.png)
+![Task_1_graph](assets/task_1_graph.png)
 
 ## Logistics Network Analysis
 
@@ -215,4 +215,4 @@ The route **Warehouse 4 -> Shop 13** has the lowest capacity of **5 units**.
 
 ## TASK_2
 
-![Task_2_results](C:\Projects\goit-algo2-hw-03\assets\task_2_results.png)
+![Task_2_results](assets/task_2_results.png)
