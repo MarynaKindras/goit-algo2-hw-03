@@ -128,7 +128,7 @@ Total range_query time for OOBTree: X.XXXXXX seconds
 Total range_query time for Dict: X.XXXXXX seconds
 ```
 
-# TASK RESULTS
+# RESULTS
 
 ## TASK_1
 ![Task_1_results](assets/task_1_results_01.png)
